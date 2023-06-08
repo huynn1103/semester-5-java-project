@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/nnhuy/restaurantmanagement/config/WebMvcConfig.java=UTF-8
+encoding//src/main/java/com/nnhuy/restaurantmanagement/controller/CheckoutController.java=UTF-8
+encoding//src/main/java/com/nnhuy/restaurantmanagement/controller/ProductController.java=UTF-8
+encoding//src/main/java/com/nnhuy/restaurantmanagement/dao/OrderDAO.java=UTF-8
